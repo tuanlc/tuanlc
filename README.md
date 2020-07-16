@@ -1,7 +1,7 @@
 ### Hi there. 👋 
 I'm Tuan. I'm a Javascript full stack software developer & a team leader [@Linagora](https://linagora.com/). I'm very interesting in the software architecture field and I expect to connect & learn more on this field (Message Broker, Distributed System, etc).
 
-📫 You can reach me on: tuancnttbk93@gmail.com
+📫 You can reach me at: tuancnttbk93@gmail.com
 <!--
 **tuanlc/tuanlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
