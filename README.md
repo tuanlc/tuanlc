@@ -79,6 +79,9 @@ Here are some ideas to get you started:
   <a href="#">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="git" style="vertical-align:top; margin:4px">
   </a>
+  <a href="#">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 <br/>
 
