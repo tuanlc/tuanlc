@@ -31,6 +31,9 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/tuan-le-cong-b41645139" alt="tuanlc's github stats">
    <img src="https://img.shields.io/badge/-tuanlc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-le-cong-b41645139" />
  </a>
+ <a href="https://gitlab.com/tuanlc" alt="tuanlc's gitlab profile">
+   <img src="https://img.shields.io/badge/-@tuanlc-330F63?style=flat-square&logo=gitlab&logoColor=white" />
+ </a>
 </p>
 
 
