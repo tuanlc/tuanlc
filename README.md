@@ -34,6 +34,9 @@ Here are some ideas to get you started:
  <a href="https://gitlab.com/tuanlc" alt="tuanlc's gitlab profile">
    <img src="https://img.shields.io/badge/-@tuanlc-330F63?style=flat-square&logo=gitlab&logoColor=white" />
  </a>
+ <a href="https://www.goodreads.com/tuanlc" alt="tuanlc's gitlab profile">
+   <img src="https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white" />
+ </a>
 </p>
 
 
