@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 > I’m a software engineer with 6 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
 ## Trivia
-- 🔭 Currently I’m working on [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
+- 🔭 Currently I’m working at [Linagora](https://linagora.com/en/)
 - 📝 I blog here: https://tuanlc.xyz/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Javascript, Typescript, Nodejs
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
