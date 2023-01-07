@@ -100,9 +100,9 @@ Here are some ideas to get you started:
  
 </p>
 <br/>
-
+<!--
 <p align="center">
   <a href="#" alt="tuanlc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tuanlc" /></a>
 </p>
-
+-->
 
