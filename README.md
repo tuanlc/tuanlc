@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Trivia
 - 🔭 Currently I’m working at [Linagora](https://linagora.com/en/)
-- 📝 I blog here: https://tuanlc.xyz/
+- 📝 I blog here: https://tuanlc.hashnode.dev/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Javascript, Typescript, Nodejs
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
 - 👯 I’m looking to collaborate on: Microservices projects
