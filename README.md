@@ -50,55 +50,21 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</p>
+**Professional skills**:
 
-<p align="center">
-   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://www.rabbitmq.com">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-  </a>
- <a href="#">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
-  </a>
- 
-</p>
-<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 <!--
 <p align="center">
   <a href="#" alt="tuanlc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tuanlc" /></a>
