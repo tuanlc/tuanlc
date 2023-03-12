@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 
-> I’m a software engineer with 6 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
+> I’m a software engineer in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
 ## Trivia
 - 🔭 Currently I’m working at [Linagora](https://linagora.com/en/)
@@ -65,9 +65,6 @@ Here are some ideas to get you started:
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!--
-<p align="center">
-  <a href="#" alt="tuanlc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tuanlc" /></a>
-</p>
--->
+---
+![Tuanlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanlc&count_private=true&show_icons=true&theme=radical)
 
