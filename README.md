@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi there, I'm Lê Công Tuấn 👋</h1>
+<h1 align="center">Hi there, I'm Lê Công Tuấn (Tuan) 👋</h1>
 
 <p align="center"> 
  <a href="https://twitter.com/tlcong" alt="tuanlc's github stats">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 
-> I’m a software engineer in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
+I’m a software engineer in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
 ## Trivia
 - 🔭 Currently I’m working at [Linagora](https://linagora.com/en/)
