@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 I’m a software engineer in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
 ## Trivia
-- 🔭 Currently I’m working at [Linagora](https://linagora.com/en/)
+- 🔭 Currently I’m working at [Skutopia](https://www.skutopia.com/)
 - 📝 I blog here: https://tuanlc.hashnode.dev/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Javascript, Typescript, Nodejs
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
