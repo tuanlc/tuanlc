@@ -65,7 +65,7 @@ I’m a software engineer in developing and designing distributed applications b
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+<!--
 ![Tuanlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanlc&count_private=true&show_icons=true&theme=radical)
 
 
