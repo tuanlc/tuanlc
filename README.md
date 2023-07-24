@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi there, I'm Lê Công Tuấn (Tuan) 👋</h1>
+<h1 align="center">Hi there, I'm Tuan 👋</h1>
 
 <p align="center"> 
  <a href="https://twitter.com/tlcong" alt="tuanlc's github stats">
