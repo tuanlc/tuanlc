@@ -67,5 +67,7 @@ I’m a software engineer in developing and designing distributed applications b
 
 <!--
 ![Tuanlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanlc&count_private=true&show_icons=true&theme=radical)
-
+-->
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanlc&hide=html,css&show_icons=true&theme=radical)
 
