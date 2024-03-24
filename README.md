@@ -44,7 +44,7 @@ I’m a software engineer in developing and designing distributed applications b
 
 ## Trivia
 - 🔭 Currently I’m working at [Skutopia](https://www.skutopia.com/)
-- 📝 I blog here: https://tuanlc.hashnode.dev/
+- 📝 I blog here: https://medium.com/@congtuanle
 - 💬 Ask me about Architecture Design, Microservices, DDD, Javascript, Typescript, Nodejs
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
 
