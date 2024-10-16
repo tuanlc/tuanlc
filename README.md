@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 
-I’m a software engineer in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, and Clean Architecture. I mainly develop using Javascript and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
+Software engineer with a passion for learning and sharing!
 
 ## Trivia
 - 🔭 Currently I’m working at [Skutopia](https://www.skutopia.com/)
