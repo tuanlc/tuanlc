@@ -45,25 +45,7 @@ Software engineer with a passion for learning and sharing!
 ## Trivia
 - 🔭 Currently I’m working at [Skutopia](https://www.skutopia.com/)
 - 📝 I blog here: https://medium.com/@congtuanle
-- 💬 Ask me about Architecture Design, Microservices, DDD, Javascript, Typescript, Nodejs
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
-
----
-
-**Professional skills**:
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <!--
 ![Tuanlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanlc&count_private=true&show_icons=true&theme=radical)
