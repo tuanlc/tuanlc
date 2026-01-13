@@ -47,9 +47,3 @@ Software engineer with a passion for learning and sharing!
 - 📝 I blog here: https://medium.com/@congtuanle
 - 📫 Follow me on Twitter [@tlcong](https://twitter.com/tlcong)
 
-<!--
-![Tuanlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanlc&count_private=true&show_icons=true&theme=radical)
--->
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanlc&hide=html,css&show_icons=true&theme=radical)
-
