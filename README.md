@@ -25,14 +25,8 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/tlcong" alt="tuanlc's github stats">
    <img src="https://img.shields.io/badge/-@tuanlc-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
- <a href="https://github.com/tuanlc" alt="tuanlc's github stats">
-   <img src="https://img.shields.io/badge/-@tuanlc-%23181717?style=flat-square&logo=github" />
- </a>
  <a href="https://www.linkedin.com/in/tuan-le-cong-b41645139" alt="tuanlc's github stats">
    <img src="https://img.shields.io/badge/-tuanlc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-le-cong-b41645139" />
- </a>
- <a href="https://gitlab.com/tuanlc" alt="tuanlc's gitlab profile">
-   <img src="https://img.shields.io/badge/-@tuanlc-330F63?style=flat-square&logo=gitlab&logoColor=white" />
  </a>
  <a href="https://www.goodreads.com/tuanlc" alt="tuanlc's gitlab profile">
    <img src="https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white" />
